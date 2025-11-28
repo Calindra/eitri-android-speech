@@ -1,6 +1,6 @@
 # eitri-android-speech
 
-Speech module for the [`Eitri Android framework`](https://github.com/Calindra/eitri-android). This module provides a standardized interface for handling speech permissions and retrieving the device's location, integrating seamlessly with the Eitri runtime.
+Speech module for the [`Eitri Android framework`](https://github.com/Calindra/eitri-android). This module provides a standardized interface for handling speech permissions, integrating seamlessly with the Eitri runtime.
 
 ## Requirements
 
